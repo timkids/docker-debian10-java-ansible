@@ -1,5 +1,5 @@
-Debian 10 Ansible Test image for Java Application
-=================================================
+Debian 10 Ansible Test image for Java Applications
+==================================================
 
 [![CI](https://github.com/timkids/docker-debian10-java-ansible/actions/workflows/build-and-push.yml/badge.svg?event=push)](https://github.com/timkids/docker-debian10-java-ansible/actions/workflows/build-and-push.yml) [![debian build status](https://img.shields.io/docker/cloud/build/timkids/docker-debian10-java-ansible.svg)](https://hub.docker.com/repository/docker/timkids/docker-debian10-java-ansible)
 
