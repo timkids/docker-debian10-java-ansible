@@ -1,5 +1,7 @@
 FROM debian:10-slim
 
+ENV container=docker
+
 LABEL maintainer="timkids"
 
 ENV DEBIAN_FRONTEND noninteractive
