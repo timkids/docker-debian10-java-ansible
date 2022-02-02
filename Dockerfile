@@ -1,6 +1,6 @@
-FROM debian:10-slim
+FROM debian:10
 
-ENV container=docker
+ENV container docker
 
 LABEL maintainer="timkids"
 
